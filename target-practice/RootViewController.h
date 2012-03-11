@@ -3,7 +3,7 @@
 //  target-practice
 //
 //  Created by Jason Roberts on 3/5/12.
-//  Copyright Clover 2012. All rights reserved.
+//  Copyright __MyCompanyName__ 2012. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

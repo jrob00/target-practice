@@ -3,7 +3,7 @@
 //  target-practice
 //
 //  Created by Jason Roberts on 3/5/12.
-//  Copyright 2012 Clover. All rights reserved.
+//  Copyright 2012 __MyCompanyName__. All rights reserved.
 //
 
 #import "MainGame.h"
